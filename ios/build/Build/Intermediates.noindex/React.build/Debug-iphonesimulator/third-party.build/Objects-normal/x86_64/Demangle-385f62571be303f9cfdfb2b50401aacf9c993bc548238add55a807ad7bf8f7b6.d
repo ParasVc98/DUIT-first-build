@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/paraschaudhary/Developer/duit-react-native1-duit-react-native-fresh/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

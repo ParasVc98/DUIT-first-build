@@ -1,0 +1,47 @@
+[
+    {
+      "userName": "Susan Cole",
+      "phoneNumber": "+65-248-792",
+      "designation": "Cake Artist",
+      "userImages": [
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1001_1_Ai4HJI8ai5HFQi6wi1om.jpg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1001_3_Ai4HJI8ai5HFQi6wi1om.jpg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1001_4_Ai4HJI8ai5HFQi6wi1om.jpg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1001_2_Ai4HJI8ai5HFQi6wi1om.jpg"
+      ],
+      "companyName": "Cupcakes",
+      "emailId": "susancole@gmail.com",
+      "companyWebsite": "https://www.cupcakes.com",
+      "about": "Hello, and welcome to the Cupcakes! We are a family owned business passionate for making beautiful and customized cakes, cookies, and more. All of our desserts are home made from scratch by a group of whimsical professionals who love turning your visions into a reality. We create treats for all sorts of occasions, including weddings, birthdays, showers, grand openings, and more. Take a look around our site and learn all about our delicious cakes!"
+    },
+    {
+      "userName": "Steven Scotts",
+      "phoneNumber": "+89-999-1112",
+      "designation": "Digital Marketer",
+      "userImages": [
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/steven_profile.jpeg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1009_3_Ai4HJI8ai5HFQi6wi1om.jpg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/digital_marketing_logo.jpeg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/sample_card_1009_4_Ai4HJI8ai5HFQi6wi1om.jpg",
+          "https://s3.ap-south-1.amazonaws.com/duit-user-uploaded-images/example/steven_card.jpg"
+      ],
+      "companyName": "Conceptual",
+      "emailId": "steven.scott@conceptual.com",
+      "companyWebsite": "www.conceptual.cloudwaysapps.com",
+      "about": "Conceptual is one of the premium digital communications agency based in India. We are a team driven by our passion for digital media and what impact it can provide to a message. The message could be for a societal change, a brand, a consumer, an NGO, a government or any other entity"
+    },
+    {
+        "userName": "Jon Bernthal",
+        "phoneNumber": "+1-754-3010",
+        "designation": "Actor",
+        "userImages": [
+            "http://www.gstatic.com/tv/thumb/persons/311060/311060_v9_bb.jpg",
+            "http://liverampup.com/uploads/images/celebrity/Jon%20Bernthal.jpg",
+            "https://sharpmagazine.com/wp-content/uploads/2016/03/eg-CMed16-01-11616_Sharp_JonB_S9_2534_work-836x1200.jpg"            
+        ],
+        "companyName": "Hollywood",
+        "emailId": "john_bernthal@connect.com",
+        "companyWebsite": "http://www.hollywood.com/",
+        "about": "Jonathan Edward Bernthal is an American actor. Bernthal began his career in minor roles on broadway and theatre before guest starring on various television shows. In 2010, he gained critical acclaim and prominence for his portrayal of Shane Walsh on the AMC series The Walking Dead."
+    }
+]
